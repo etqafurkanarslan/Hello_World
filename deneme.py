@@ -1,1 +1,1 @@
-furkan
+print("furkan")
